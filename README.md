@@ -1,6 +1,6 @@
-Test readme file for first commit
+#Test readme file for first commit
 
 Adding more text.
 
 
-I hope this isn't much of a problem.
+<<<<<<< .mineI hope this isn't much of a problem.=======This is bound to cause trouble.>>>>>>> .theirs
